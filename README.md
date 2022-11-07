@@ -1,4 +1,4 @@
 # UEQ_Genf
 
-Urban Environmental Quality of Genf
-HEC
+Renovation Propensity 
+Micro-Climate Impact on Geneva's Heat Expenditure Index
